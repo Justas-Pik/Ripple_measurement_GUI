@@ -14,12 +14,12 @@ Privalumai:
 Galimybė pasirinkti kanalus ir matavimus.
 Srovės įvedimas kiekvienam kanalui.
 Galimybė dokumentą įrašyti į iš anksto pasirinktą aplanką, jei nepasirinktas atlikus pirmą matavimą paklausiama, į kurį aplanką įrašyti.
-Atliekant No Load, Full Load ir Dynamic Load matavimus  išvedama papildoma lentelė su pertvarkytais duomenimis.
+Atliekant No Load, Full Load ir Dynamic Load matavimus išvedama papildoma lentelė su pertvarkytais duomenimis.
 Galimybė keisti dinaminius parametrus.
 Atlikus matavimus išvedamos žinutės, taip pat, jei neįvesta srovė ir norima atlikti pilnos ar dinaminės apkrovos matavimus, suvedus elektroninės apkrovos rėžių neatitinkančius dinaminus parametrus ar raides vietoj adreso.
 
 Trūkumai:
-Failas automatiškai išsaugomas tame aplanke, kuriame yra .exe failas, nurodant vietą išsaugomas ir nurodytame aplanke ir .exe failo aplanke. Jei atliekant "No Load" matavimai su keliais kanalais nenurodant papildomo kelio (t.y iššokusiame lange paspaudus „Cancel“), kiekvienas matavimas išskaidomas į atskirą dokumentą ir patalpinamas aplanke, kuriame yra vartotojo sąsaja. Pasirinkus "No Load" ir "Full Load"  matavimas, ir nenurodant kelio, matavimas po "Full Load" nutraukiamas, srovė lieka įjungta, dokumentas patalpinamas vartotojo sąsajos aplanke.
+Failas automatiškai išsaugomas tame aplanke, kuriame yra .exe failas, nurodant vietą išsaugomas ir nurodytame aplanke ir .exe failo aplanke. Jei atliekant "No Load" matavimai su keliais kanalais nenurodant papildomo kelio (t.y iššokusiame lange paspaudus „Cancel“), kiekvienas matavimas išskaidomas į atskirą dokumentą ir patalpinamas aplanke, kuriame yra vartotojo sąsaja. Pasirinkus "No Load" ir "Full Load"  matavimus, ir nenurodant kelio, matavimas po "Full Load" nutraukiamas, srovė lieka įjungta, dokumentas patalpinamas vartotojo sąsajos aplanke.
 Srovių įvedimo laukeliai (Current CH1,2,3,4) nėra apsaugoti nuo raidžių įvedimo, jas įvedus aprkovoje nustatoma 0 A srovė.
 Žinutės neišvedamos realiu laiku.
 Uždarant aplikaciją neuždaromi ryšiai su prietaisais. Atsijungiama nuspaudus „Close“ mygtuką vartotojo sąsajoje, tik tuomet galima uždaryti programą spaudžiant viršutiniame kampe esantį „X“ arba „Quit“ mygtukus.
