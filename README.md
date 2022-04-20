@@ -10,14 +10,14 @@ This repository contains Ripple_measurement_GUI.py Python file which can by buil
 5. LAN Switch
 6. 4 LAN Cables
 7. Oscilloscope Cable
-8. 2 Electronic Load cables with banana jacks
+8. 2 Electronic Load cables with banana plugs
 9. Power supplies for Gateway, Switch and Testing board
 10. Wire to connect Gateway to Testing board (3 pins) 
 
 ##### System connections
 1. Connect oscilloscope, electronic load, gateway and computer to the switch.
 2. Plug gateway to the testing board using 3 pin wire, and also connect switch, gateway and testing board to mains.
-3. Connect oscilloscope and electronic load to testing board using oscilloscope and banana jack (e load) cables.
+3. Connect oscilloscope and electronic load to testing board using oscilloscope and electronic load cables.
 4. Connect power supplies for testing (Max. 4).
 5. Turn on Ripple_measurement_GUI application. (For building application from .py file look below).
 6. Enter and set IP adresses of electronic load, oscilloscope and gateway, also gateway password. (If addresses have not been changed, the initial values should work).
