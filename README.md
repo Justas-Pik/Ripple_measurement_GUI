@@ -29,6 +29,18 @@ This repository contains Ripple_measurement_GUI.py Python file which can by buil
 12. Close the program using "X" or "Quit" buttons.
 
 *If you don't select where to save the document, it will only be saved in the folder that contains the GUI application file. If you select an additional folder, the data will be saved to your additional directory and to folder that contains your application.
+
+
+##### Software requirements 
+Program for opening Python files. For example "Visual Studio Code".
+NI VISA 5.4 drivers, you can download them from here:
+https://www.ni.com/en-us/support/downloads/drivers/download/unpackaged.ni-visa.306013.html
+If not installed, you need to pip install python modules*:
+- io, sys, docx, paramiko, datetime, pandas, tkinter, pyvisa
+
+*Simply open "Visual Studio Code" terminal and write "pip install" and modules listed above.
+
+
 ##### Building application from code
 
 1. Then open the file in "Visual Studio Code", or other similar application.
