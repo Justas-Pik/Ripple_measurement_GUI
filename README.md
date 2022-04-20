@@ -38,6 +38,7 @@ This repository contains Ripple_measurement_GUI.py Python file which can by buil
 5. Open "dist" folder and there you have your GUI.***
 
 ** We do this to prevent the unnecessary console from opening. It can be done by opening "Explorer" at left upper corner, then pressing "Open Folder", selecting the folder where the file is located, then again opening "Explorer", right clicking on "Ripple_measurement_GUI.py" and adding "w" to the end of filename.
+
 *** There will be more files created during compilation of .exe file, and they can be deleted.
 
 
