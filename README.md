@@ -36,7 +36,14 @@ Program for opening Python files. For example "Visual Studio Code".
 NI VISA 5.4 drivers, you can download them from here:
 https://www.ni.com/en-us/support/downloads/drivers/download/unpackaged.ni-visa.306013.html
 If not installed, you need to pip install python modules*:
-- io, sys, docx, paramiko, datetime, pandas, tkinter, pyvisa
+- io
+- sys
+- docx
+- paramiko
+- datetime
+- pandas
+- tkinter
+- pyvisa
 
 *Simply open "Visual Studio Code" terminal and write "pip install" and modules listed above.
 
